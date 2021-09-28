@@ -1,0 +1,40 @@
+body {
+    background-color: #4891f0;
+}
+
+#items {
+	margin:10px;
+	width:900px;
+	font-family: Helvetica ;
+}
+
+#Items li {
+	display:inline-block;
+	width: 100px;
+	margin-bottom:2px;
+	border: 5px solid #490caa;
+    border-width: 5px;
+}
+
+#Items a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#13b61b;
+	color:#f8f8f8;
+}
+
+#Items a:hover {
+	background-color:#009;
+	color:#fff;
+}
+
+h2{
+    text-align: center;
+    font-family: Georgia;
+}
+
+h3{
+    text-align: center;
+    font-family:Helvetica;
+}

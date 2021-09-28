@@ -1,0 +1,50 @@
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+body {
+    background-color: #0a9c16;
+}
+
+#Contacts {
+	margin:10px;
+	width:900px;
+	font-family: Helvetica ;
+}
+
+#Contacts li {
+	display:inline-block;
+	width: 100px;
+	margin-bottom:2px;
+	border: 5px solid #490caa;
+    border-width: 5px;
+}
+
+#Contacts a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#13c4d1;
+	color:#f8f8f8;
+}
+
+#Contacts a:hover {
+	background-color:#009;
+	color:#fff;
+}
+
+img{
+ align-items: center;
+}
+
+form{
+	text-align: center;
+}
